@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F77F3B&center=true&vCenter=true&lines=Full-stack+Web+Developer;Always+learning+new+things"></a>
 
 </p>
-### 👨‍💻 Programming languages
+
 
 
 ## ⚡ Technologies
@@ -30,7 +30,7 @@
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
+### 👨‍💻 Programming languages
 
 <div align="center" >
   
