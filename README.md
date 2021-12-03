@@ -9,7 +9,7 @@
 </p>
 
 ## 👨‍💻 About me
-<p>💻 I’m a Junior Full Stack Developer</p>
+💻 I’m a Junior Full Stack Developer
 🔥 I am passionate about computing
 
 ## ⚡ Technologies
