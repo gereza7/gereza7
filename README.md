@@ -11,7 +11,7 @@
 ## 👨‍💻 About me
 💻 I’m a Junior Full Stack Developer
 <br>
-🔥 I am passionate about computing
+🔥  I am passionate about computing
 <br>
 🎓 Currently student of cross-platform application design
 
