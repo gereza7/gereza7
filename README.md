@@ -55,6 +55,7 @@
 
  <p align="center">
     <a href="https://www.linkedin.com/in/germanrz7/" alt="Linkedin"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  height="30px></a>
+      <p></p>
     <a href="mailto:gereza7@gmail.com" alt="Contact me"><img height="30px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"></a>
   </p>
 
