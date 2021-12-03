@@ -54,8 +54,11 @@
 <h3 align="center">Connect with me:</h3>
 
  <p align="center">
-    <a href="https://www.linkedin.com/in/germanrz7/" alt="Linkedin"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  height="30px></a>
+    <a href="https://www.linkedin.com/in/germanrz7/" alt="Linkedin"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30px"></a>
+   <a href="mailto:gereza7@gmail.com" alt="Contact me"><img src=https://cdn.worldvectorlogo.com/logos/mail-ios.svg"></a>
       </p>
 
-       <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+
+
+      
 
