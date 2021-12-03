@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="110">
+<img src="https://acegif.com/wp-content/uploads/loading-87.gif" width="110">
   </p>
 <h3 align="center">
   Welcome to German's profile ! 
