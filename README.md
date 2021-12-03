@@ -9,8 +9,8 @@
 </p>
 
 ## 👨‍💻 About me
-💻 I’m a Junior Full Stack Developer
-🔥 I am passionate about computing
+<p>💻 I’m a Junior Full Stack Developer</p>
+<p>🔥 I am passionate about computing</p>
 
 ## ⚡ Technologies
 
