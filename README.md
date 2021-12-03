@@ -30,7 +30,7 @@
 <div align="center" >
   
 <a  href="https://github.com/SP-XD">
-  
+  <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&theme=tokyonight" href="https://github.com/gereza7" />
 ![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&theme=tokyonight)
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gereza7&layout=compact&count_private=true&&hide_border=true&bg_color=50&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/gereza7" />
 
