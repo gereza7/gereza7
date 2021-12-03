@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F77F3B&center=true&vCenter=true&lines=Full-stack+Web+Developer;Always+learning+new+things"></a>
 
 </p>
- <img src="https://i.pinimg.com/originals/d3/93/96/d39396f22faa87104a8e41be6883c21c.gif" width="28">
+ <img src="https://i.pinimg.com/originals/d3/93/96/d39396f22faa87104a8e41be6883c21c.gif" width="248">
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
