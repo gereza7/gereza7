@@ -25,5 +25,7 @@
 ![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&theme=tokyonight)
 [![German's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gereza7)](https://github.com/gereza7/github-readme-stats)
 
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
 
