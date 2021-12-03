@@ -1,4 +1,4 @@
-<div style="background-image: url('https://www.army-technology.com/wp-content/uploads/sites/3/2020/08/Lockheed-Martin-17thAug.jpg')>
+<div style="background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png")>
 <p align="center">
 <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="110">
   </p>
