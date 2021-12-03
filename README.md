@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F77F3B&center=true&vCenter=true&lines=Full-stack+Web+Developer;Always+learning+new+things"></a>
 
 </p>
-## 🙋‍♂️ About me
+🙋‍♂️ About me
 
 
 ## ⚡ Technologies
