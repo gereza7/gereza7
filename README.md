@@ -5,7 +5,7 @@
 </h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F77F3B&center=true&vCenter=true&lines=Full-stack+Web+Developer;Always+learning+new+things"></a>
- <img src="https://i.pinimg.com/originals/d3/93/96/d39396f22faa87104a8e41be6883c21c.gif" width="248">
+
 </p>
 
 ## ⚡ Technologies
@@ -28,7 +28,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
+ <img src="https://i.pinimg.com/originals/d3/93/96/d39396f22faa87104a8e41be6883c21c.gif" width="248">
 
 <div align="center" >
   
