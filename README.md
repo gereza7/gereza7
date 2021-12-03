@@ -25,7 +25,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-[![German's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gereza7)](https://github.com/gereza7/github-readme-stats)
 
 <div align="center" >
   
