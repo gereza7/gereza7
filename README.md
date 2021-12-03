@@ -9,6 +9,7 @@
 </p>
 
 ## 👨‍💻 About me
+💻 I’m a Junior Full Stack Developer
 
 ## ⚡ Technologies
 
