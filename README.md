@@ -1,3 +1,4 @@
+<div style="background-image: url('https://www.army-technology.com/wp-content/uploads/sites/3/2020/08/Lockheed-Martin-17thAug.jpg')>
 <p align="center">
 <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="110">
   </p>
@@ -10,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F77F3B&center=true&vCenter=true&lines=Full-stack+Web+Developer;Always+learning+new+things"></a>
 
 </p>
-
+</div>
 ## 👨‍💻 About me
 💻 I’m a Junior Full Stack Developer
 <br>
