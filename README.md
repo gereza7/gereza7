@@ -24,14 +24,14 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&theme=tokyonight)
+
 [![German's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gereza7)](https://github.com/gereza7/github-readme-stats)
 
 <div align="center" >
   
 <a  href="https://github.com/SP-XD">
   
-<img alt="German's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&count_private=true&hide_border=true&bg_color=60,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/gereza7" />
+![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&theme=tokyonight)
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gereza7&layout=compact&count_private=true&&hide_border=true&bg_color=50&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/gereza7" />
 
 </a>
