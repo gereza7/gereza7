@@ -1,9 +1,9 @@
 <h3 align="center">
   Welcome to German's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77F3B&lines=Full-stack+Web+Developer;Always+learning+new+things;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
-</h3>
 
+</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77F3B&lines=Full-stack+Web+Developer;Always+learning+new+things;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 
 ## ⚡ Technologies
 
