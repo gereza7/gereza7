@@ -2,7 +2,7 @@
   Welcome to German's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanrz7)
 
 ## ⚡ Technologies
 
@@ -20,6 +20,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&theme=tokyonight)
 [![German's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gereza7)](https://github.com/gereza7/github-readme-stats)
