@@ -2,6 +2,8 @@
   Welcome to German's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germanrz7/)](https://www.linkedin.com/in/germanrz7/)
+[![Gmail Badge](https://img.shields.io/badge/-gereza7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gereza7@gmail.com)](mailto:gereza7@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,10 +27,3 @@
 
 
 
-
-```text
-🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-🌆 Daytime    148 commits    █████████░░░░░░░░░░░░░░░░   39.47% 
-🌃 Evening    120 commits    ████████░░░░░░░░░░░░░░░░░   32.0% 
-🌙 Night      55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67%
-```
