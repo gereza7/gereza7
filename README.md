@@ -19,3 +19,5 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)
+
+[![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereza7)](https://github.com/gereza7/github-readme-stats)
