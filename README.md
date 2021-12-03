@@ -41,7 +41,7 @@
 
 <a  href="https://github.com/gereza7">
   
-<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/gereza7" />
+<img alt="German's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/gereza7" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gereza7&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/gereza7" />
 
 </a>
@@ -54,7 +54,7 @@
 <h3 align="center">Connect with me:</h3>
 
  <p align="center">
-    <a href="https://www.linkedin.com/in/germanrz7/" alt="Linkedin" width="50%><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"></a>
+    <a href="https://www.linkedin.com/in/germanrz7/" alt="Linkedin"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  height="50px></a>
     <a href="mailto:gereza7@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
   </p>
 
