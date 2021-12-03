@@ -10,6 +10,7 @@
 
 ## 👨‍💻 About me
 💻 I’m a Junior Full Stack Developer
+🔥 I am passionate about computing
 
 ## ⚡ Technologies
 
