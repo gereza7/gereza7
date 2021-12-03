@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://acegif.com/wp-content/uploads/loading-87.gif" width="110">
+<img src="https://i.imgur.com/VKfapZT.gif" width="110">
   </p>
 <h3 align="center">
   Welcome to German's profile ! 
