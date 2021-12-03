@@ -20,6 +20,6 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)
 
-![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&theme=radical)
+![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereza7&show_icons=true&theme=dracula)
 
 
